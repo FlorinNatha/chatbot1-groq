@@ -11,9 +11,6 @@ Nexus AI is a highly responsive, conversational AI web application powered by th
 
 ---
 
-## Project Notes
-This folder is designated for storing research, ideas, to-do lists, and any other documentation related to the development of the Nexus AI Groq Chatbot.
-
 ## To-Do Ideas
 - [ ] Add more personality options (system prompts)
 - [ ] Implement user authentication
